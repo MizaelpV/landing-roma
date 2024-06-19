@@ -90,8 +90,8 @@ function App() {
           <>
             <Form onSubmit={handleSubmit} />
 
-            <div className="flex gap-2 p-3">
-              <span className="lg:mt-5 mt-3 text-sm hover:underline">
+            <div className="flex gap-2 p-3 ">
+              <span className="lg:mt-5 mt-4 text-sm hover:underline py-1">
                 Avísame cuando la tienda esté lista
               </span>
 
